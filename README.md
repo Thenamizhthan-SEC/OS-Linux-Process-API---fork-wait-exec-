@@ -50,7 +50,7 @@ int main(void)
 
 ## OUTPUT
 
-![Alt text](img/fork.png)
+<img width="837" height="482" alt="image" src="https://github.com/user-attachments/assets/78e7874f-85ea-4327-a750-50f78f218890" />
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
@@ -100,7 +100,8 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](img/exit.png)
+<img width="832" height="500" alt="image" src="https://github.com/user-attachments/assets/7ea18be8-9d37-4739-8c7a-71f6e2f33e1d" />
+
 
 # RESULT:
 The programs are executed successfully.
